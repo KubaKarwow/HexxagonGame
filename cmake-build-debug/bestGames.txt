@@ -1,0 +1,5 @@
+ola 22 36
+vsRafal 36 13
+julekvstosia 22 36
+T 0 21
+dasda 13 0
