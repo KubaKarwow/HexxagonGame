@@ -1,5 +1,7 @@
 # HexxagonGame
 
+Video presentation: https://www.youtube.com/watch?v=ln_fxn3lpnw
+
 This is my implementation of the Hexxagon from 1993.
 
 Project contains:
